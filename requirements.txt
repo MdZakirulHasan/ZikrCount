@@ -1,0 +1,6 @@
+streamlit==1.41.1
+streamlit-webrtc==0..getlatest
+av>=12.0.0,<15.0.0
+numpy<2.0
+faster-whisper==1.1.1
+streamlit-autorefresh==1.0.1
